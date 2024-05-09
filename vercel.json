@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/course",
-      "destination": "https://dayglow.app"
+      "destination": "https://doing-things.mykajabi.com"
     }
   ]
 }
